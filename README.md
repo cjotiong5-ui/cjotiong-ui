@@ -21,6 +21,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cjotiong5-ui/cjotiong5-ui/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+<h2 align="center">👾 Pac-Man Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/cjotiong5-ui/cjotiong-ui/pacman-output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contribution Graph"
+  />
+</p>
+
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/cjotiong5-ui/cjotiong5-ui/snake-output/snake.svg" alt="Snake animation" />
